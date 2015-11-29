@@ -1,0 +1,165 @@
+@viewport {
+  width: device-width;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background: orangered linear-gradient(orangered, orange) repeat-x fixed;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+}
+
+a:link {
+  background-color: #111;
+  text-decoration: none;
+}
+
+a:visited {
+  background-color: #111;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #fff;
+  text-decoration: none;
+}
+
+#skip {
+  background-color:transparent;
+  margin:0;
+  width: auto;
+}
+
+img {
+  width: 75vw;
+}
+
+ul{
+  list-style-type: square;
+}
+
+hr {
+  margin-top: 2em;
+  border-style: solid;
+  width: 95vw;
+  background: #fff;
+  color:#fff;
+  position:fixed;
+  left:2.5vw;
+}
+
+h1 {
+  font-weight:600;
+  margin: 0 0 0 0;
+}
+
+h6 {
+  margin:0;
+}
+
+#navigation{
+  font-weight:800;
+  font-size:2em;
+  width:15vw;
+  position:fixed;
+  left: 1.5em;
+  margin-top: 1.5em;
+  margin-right: 1em;
+}
+
+#licenseb{
+  width:15vw;
+  position:fixed;
+  bottom:3vh;
+  right:-2vw;
+  align:right;
+}
+
+#licenses{
+  display:none;
+}
+
+#stuff {
+  width: 75vw;
+  margin-top: 3em;
+  margin-left: 1em;
+  left: 19.1vw;
+  right: 1vw;
+  position:absolute;
+}
+
+#stuff hr{
+  width: 75vw;
+  left: 20vw;
+  position:static;
+}
+
+#sidehr{
+  width:16vw;
+  left:3vw;
+  margin-top:1em;
+  position:fixed;
+}
+
+#bottomhr{
+  height: 4px;
+  bottom: 10px;
+  left:2.5vw;
+}
+
+#sidehr2 {
+  display:none;
+}
+
+@media screen and (max-width: 800px) {
+  @-ms-viewport { width: 720px; }
+  #licenseb{
+    display:none;
+  }
+  #licenses{
+    width:15vw;
+    display:block;
+  }
+  #navigation{
+    width:90vw;
+    position:static;
+    font-size: 1.75em;
+    margin: 1em;
+  }
+  hr {
+    position: static;
+  }
+  img {
+    width: 90vw;
+  }
+  #stuff {
+    position:auto;
+    width: 90vw;
+    margin: 1em;
+    left: 2vw;
+  }
+  #stuff hr{
+    width:90vw;
+  }
+  #sidehr{
+    display:none;
+  }
+  #sidehr2 {
+    display:block;
+  }
+  #bottomhr{
+    position:fixed;
+  }
+  #license{
+    position:static;
+  }
+}

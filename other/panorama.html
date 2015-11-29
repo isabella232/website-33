@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)http://www.ixtli.info/artissohardandsoiscommunicating.html -->
+<html>
+<head>
+    <title>ART IS SO HARD AND SO IS COMMUNICATING</title>
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+</head>
+<body>
+
+
+<script type='text/javascript'>
+var initPosPanoID, streetView;
+
+function initialize() {
+  // Set StreetView provider.
+  var streetViewOptions = {
+    zoom: 0,
+    panoProvider:  getCustomPanorama,
+    pano : "z2Z50sK"
+  };
+  
+  // Create a StreetView object.
+  var streetViewDiv = document.getElementById('map-canvas');
+  streetView = new google.maps.StreetViewPanorama(streetViewDiv, streetViewOptions);
+
+  // Add links when it happens "links_change" event.
+  google.maps.event.addListener(streetView, "links_changed", createCustomLink);
+  
+}
+
+function getCustomPanoramaTileUrl(panoID, zoom, tileX, tileY) {
+  // Return a pano image given the panoID.
+  return "http://i.imgur.com/" + panoID + '.png';
+}
+
+function getCustomPanorama(panoID) {
+  var streetViewPanoramaData = {
+    links: [],
+    copyright: 'Imagery by Ixtli Moran',
+    tiles: {
+        tileSize: new google.maps.Size(4096, 3112),
+        worldSize: new google.maps.Size(4096, 3112),
+        centerHeading: 0,
+        getTileUrl: getCustomPanoramaTileUrl
+     }
+  };
+  switch(panoID) {
+    case "z2Z50sK":
+      // Description of this point.
+      streetViewPanoramaData["location"] = {
+        pano: 'z2Z50sK',
+        description: "home",
+        latLng: new google.maps.LatLng(0, 0)
+      };
+      return streetViewPanoramaData;
+      
+    case "oJEhYVL":
+      streetViewPanoramaData["location"] = {
+        pano: 'oJEhYVL',
+        description: "water",
+        latLng: new google.maps.LatLng(0, 0)
+      };
+      return streetViewPanoramaData;
+      
+    case "AARfoTb":
+      streetViewPanoramaData["location"] = {
+        pano: 'AARfoTb',
+        description: "fire",
+        latLng: new google.maps.LatLng(0, 0)
+      };
+      return streetViewPanoramaData;
+      
+
+  }
+}
+
+function createCustomLink() {
+  /*
+   * add links
+   */
+  var links = streetView.getLinks();
+  var panoID = streetView.getPano();
+  
+  switch(panoID) {
+    case "AARfoTb":
+      links.push({
+        description : "water",
+        pano : "oJEhYVL",
+        heading : 0
+      });
+      break;
+    case "z2Z50sK":
+      links.push({
+        description : "water",
+        pano : "oJEhYVL",
+        heading : 180
+      });
+      break;
+      
+    case "oJEhYVL":
+      links.push({
+        description : "home",
+        pano : "z2Z50sK",
+        heading : 0
+      });
+      links.push({
+        description : "fire",
+        pano : "AARfoTb",
+        heading : 180
+      });
+      break;
+  }
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+    <div id="map-canvas"></div>
+  
+</body></html>

@@ -1,0 +1,7 @@
+markdown: kramdown
+name: ixtli
+description: a blog for a face
+
+baseurl: ""
+url: "http://ixt.github.io"
+twitter_username: _xs

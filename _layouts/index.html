@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="author" content="Ixtli Orange">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="/css/standard.css" media="screen">
+  <link rel="stylesheet" href="/css/normalize.css">
+  {% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+  {% endif %}
+</head>
+
+<body>
+  <hr style="height: 4px" />
+    <div id="navigation">
+      <a href="/">ixtli orange<br /></a>
+      <a>{{ page.other }}</a>
+      <hr id="sidehr"/>
+    </div>
+    <hr id="sidehr2"/>
+    <div id="stuff">
+      {{content}}
+    </div>
+</body>
+  {% include footer.md %}
+  <hr id="bottomhr" />
+</html>
