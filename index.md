@@ -8,9 +8,6 @@ i make/break/document things. my life ambitions include but are not limited to:
 
 +	not being a jerk to everybody (including animals)
 +	inspire people a bunch
-+   find novel ways to change interactions
-+	get the usb connector in the right way round first time
-    (keeping this here till type c is ubiquitous with usb)
 +   type mostly in lowercase but still be professional  
 
 ---
@@ -24,8 +21,6 @@ i make/break/document things. my life ambitions include but are not limited to:
 | email    | a@ixtli.info                                  |
 | twitter  | [_xs](https://twitter.com/_xs)                |
 | sms      | (+44) 7708217259                              |
-| youtube  | [IxtliM](https://www.youtube.com/user/IxtliM/)|
-| facebook | [ixtli orange](https://fb.me/ixtli.moran)     |
 |===
 
 ---
@@ -35,6 +30,8 @@ i make/break/document things. my life ambitions include but are not limited to:
 ---
 
 |---
+|2015|[🔪🍎🍊🍋🍌🍐🍍🍴]({{ site.url }}/fruit/)| performance |  
+|2015|[Press Any Key To Continue]({{ site.url }}/any/)| installation |  
 |2015|[ode to plastic and by extention cups]({{ site.url }}/cups/)| webpage |  
 |2014|[Sonification Of Processes & Notifications](http://hacks.youngrewiredstate.org/events/Kings%20College/sonification-of-processes-notifications-sonosocialdata-ism)| program |
 |2014|[Tweet in public ](http://hacks.youngrewiredstate.org/events/Kings%20College/tweet-in-public)| twitter |

@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>ixtli</title>
+  <title>ixtli - {{ page.title }}</title>
   <meta name="author" content="Ixtli Mórán">
   <meta name="viewport" content="width=device-width">
   <link rel="shortcut icon" href="/assets/favicon.ico">
@@ -15,7 +15,7 @@
 <body>
 
 <div id='stuff'>
-  <a href='/'> < index </a> / <a href='/blog'> blog </a>
+    <a href='/'> < home</a><a href='{{ page.link }}'>{{ page.permalink }}</a>
     <article>
       {{content}}
     </article>
