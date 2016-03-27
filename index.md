@@ -1,36 +1,31 @@
 ---
+title: ff4500
 layout: index
-title: ixtli
-other: social media is dead long live social media
 ---
 
 i make/break/document things. my life ambitions include but are not limited to:
 
-+	not being a jerk to everybody (including animals)
-+	inspire people a bunch
++	inspire people a bunch  
++   not be a jerk to people  
++   stay hydrated at all times  
++   make programs and issues i care about more apparent  
 +   type mostly in lowercase but still be professional  
 
----
 
-### links
-
----
+### contact
 
 |---
-| the web  | [ixtli.info](https://ixtli.info)              |
-| email    | a@ixtli.info                                  |
+| email    | orange@ff4500.red                             |
 | twitter  | [_xs](https://twitter.com/_xs)                |
 | sms      | (+44) 7708217259                              |
 |===
 
----
 
 ### projects
 
----
-
 |---
-|2015|[🔪🍎🍊🍋🍌🍐🍍🍴]({{ site.url }}/fruit/)| performance |  
+|2016|[Liberalia]({{ site.url }}/liberalia/)| performance |
+|2015|[🔪🍎🍊🍋🍌🍐🍍🍴]({{ site.url }}/fruit/)| performance |
 |2015|[Press Any Key To Continue]({{ site.url }}/any/)| installation |  
 |2015|[ode to plastic and by extention cups]({{ site.url }}/cups/)| webpage |  
 |2014|[Sonification Of Processes & Notifications](http://hacks.youngrewiredstate.org/events/Kings%20College/sonification-of-processes-notifications-sonosocialdata-ism)| program |

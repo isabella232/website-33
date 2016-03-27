@@ -1,6 +1,6 @@
 body {
   background: orangered;
-  font-family: "Lucida Console", Monaco, monospacee;
+  font-family: "Lucida Console", Monaco, monospace;
   color: #444;
   height: 100%;
 }
@@ -28,7 +28,6 @@ a:hover {
   width:40vw;
   margin: 0 auto;
   margin-top: 1em;
-  align:center;
 }
 
 hr {
