@@ -1,5 +1,5 @@
 ---
-layout: plainpage
+layout: none
 permalink: /cups/
 title: ode to plastic and by extention cups
 ---

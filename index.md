@@ -11,7 +11,6 @@ i make/break/document things. my life ambitions include but are not limited to:
 +   make programs and issues i care about more apparent  
 +   type mostly in lowercase but still be professional  
 
-
 ### contact
 
 |---

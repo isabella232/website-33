@@ -18,3 +18,4 @@ defaults:
             type: projects
         values:
             layout: post
+            type: "digital work"
