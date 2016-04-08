@@ -24,10 +24,10 @@ i make/break/document things. my life ambitions include but are not limited to:
 ### projects
 
 |---
-|2016|[Liberalia]({{ site.url }}/liberalia/)| performance |
-|2015|[🔪🍎🍊🍋🍌🍐🍍🍴]({{ site.url }}/fruit/)| performance |
-|2015|[Press Any Key To Continue]({{ site.url }}/any/)| installation |  
-|2015|[ode to plastic and by extention cups]({{ site.url }}/cups/)| webpage |  
+|2016|[Liberalia]({{ site.baseurl }}/liberalia/)| performance |
+|2015|[🔪🍎🍊🍋🍌🍐🍍🍴]({{ site.baseurl }}/fruit/)| performance |
+|2015|[Press Any Key To Continue]({{ site.baseurl }}/any/)| installation |  
+|2015|[ode to plastic and by extention cups]({{ site.baseurl }}/cups/)| webpage |  
 |2014|[Sonification Of Processes & Notifications](http://hacks.youngrewiredstate.org/events/Kings%20College/sonification-of-processes-notifications-sonosocialdata-ism)| program |
 |2014|[Tweet in public ](http://hacks.youngrewiredstate.org/events/Kings%20College/tweet-in-public)| twitter |
 |2014|[tweet chain](https://twitter.com/_xs/status/445329208550899712)| twitter |

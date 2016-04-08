@@ -2,13 +2,9 @@
 layout: index
 title: list
 permalink: /list/
-other: a list is worth a thousand words or more
 ---
 
 [< back](/)
-
-this page will be updated with relevant blog posts to explain some projects  
-and will be updated with newer works when i have time to upload them in an appropriate way.
 
 this page was last updated 2014.12.4 @143
 

@@ -1,36 +1,36 @@
+html {
+  min-height: 100%;
+}
+
 body {
-  background: orangered;
-  font-family: "Lucida Console", Monaco, monospace;
-  color: #444;
-  height: 100%;
+  background: orangered linear-gradient(orangered, orange) repeat-x fixed;
+  font-family: serif;
+  font-weight: 400;
+  color: #fff;
 }
 
 a {
   text-decoration: none;
+  color: #fff;
 }
 
 a:link {
-  color: #eee;
+  background-color: #111;
   text-decoration: none;
 }
 
 a:visited {
-  color: #ccc;
+  background-color: #111;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ddd;
+  color: #111;
+  background-color: #fff;
   text-decoration: none;
 }
 
-#stuff {
-  width:40vw;
-  margin: 0 auto;
-  margin-top: 1em;
+ul{
+  list-style-type: square;
 }
 
-hr {
-  color: #444;
-  border-color: #444;
-}

@@ -5,3 +5,16 @@ description: a blog for a face
 baseurl: ""
 url: "http://www.ff4500.red"
 twitter_username: _xs
+
+collections:
+    projects:
+        output: true
+        permalink: /projects/:path
+
+defaults:
+    - 
+        scope: 
+            path: ""
+            type: projects
+        values:
+            layout: post
