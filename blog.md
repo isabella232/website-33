@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /b/
-other: words, words, words, words, words, pictures, words, videos, words
+colour: orange
 ---
 
 [< back](/) - [rss feed link](/feed.xml)

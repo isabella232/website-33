@@ -3,6 +3,8 @@ layout: post
 permalink: /Tweet-Chain/
 title: Tweet Chain
 date: 2013/02/14
+colour: lightblue
+type: twitter poetry
 ---
 
 A long chain of tweets wrote backwards through time. A "Never starting" Poem. 

@@ -2,6 +2,8 @@
 layout: post
 title: 🔪🍎🍊🍋🍌🍐🍍🍴 
 permalink: /fruit/
+colour: yellow
+type: performance
 ---
 
 # {{ page.title }}

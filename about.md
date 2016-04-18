@@ -1,6 +1,7 @@
 ---
 layout: index
 permalink: /about/
+colour: tomato
 ---
 
 Newcastle Born from the 90s.  

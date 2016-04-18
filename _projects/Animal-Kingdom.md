@@ -3,6 +3,8 @@ layout: post
 permalink: /Animal-Kingdom/
 title: Animal Kingdom
 date: 2014/02/14
+colour: black
+type: pen drawings
 ---
 
 [Tumblr link](http://ixt.tumblr.com/tagged/animal-kingdom)  

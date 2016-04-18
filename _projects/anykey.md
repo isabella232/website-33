@@ -3,6 +3,8 @@ layout: post
 permalink: /anykey/
 title: Press Any Key To Continue
 date: 2015/04/30
+colour: green
+type: installation
 ---
 
 PRESS ANY KEY TO CONTINUE is an installation commenting on the oversimplification of interfaces and the blind acceptance by the user of these interfaces. The piece comprises of a CRT monitor, webcam, printer and a single key keyboard.

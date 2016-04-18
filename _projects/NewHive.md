@@ -3,6 +3,8 @@ layout: post
 permalink: /NewHive/
 title: NewHive Sites 
 date: 2014/05/20
+colour: khaki
+type: websites
 ---
 
 [Pure Colour - Sonocromatic](http://newhive.com/ixt/colourpure)  
