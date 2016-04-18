@@ -12,7 +12,7 @@ i make/break/document things. my life ambitions include but are not limited to:
 +   type mostly in lowercase but still be professional  
 
 |---
-| email    | orange@ff4500.red                             |
+| twitter  | [_xs](https://twitter.com/_xs){: style="color: black"} |
 | sms      | (+44) 7708217259                              |
-| twitter  | [_xs](https://twitter.com/_xs)                |
+| email    | orange@ff4500.red                             |
 |===

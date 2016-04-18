@@ -12,14 +12,17 @@ body {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: white;
 }
 
 a:hover {
-  color: #111;
+  color: darkgrey;
 }
 
 ul{
   list-style-type: square;
 }
 
+img {
+    max-width: 640px;
+}
