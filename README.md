@@ -1,4 +1,3 @@
 # my website / small portfolio of work
 
-this is a template (a messy one right now) made for jekyll 
-
+this is a jekyll website built for myself, it is small and does not have any javascript, runs statically.

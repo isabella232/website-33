@@ -1,6 +1,7 @@
 ---
 title: ff4500
 layout: index
+title: ff4500
 ---
 
 i make/break/document things. my life ambitions include but are not limited to:

@@ -2,6 +2,7 @@
 layout: index
 permalink: /b/
 colour: orange
+title: blog
 ---
 
 [< back](/) - [rss feed link](/feed.xml)
