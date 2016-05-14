@@ -3,7 +3,9 @@ html {
 }
 
 body {
-  background: gainsboro; 
+  background: orangered; 
+  background-image: url("/assets/banner.png") ;
+  background-repeat: repeat-x;
   font-family: monospace;
   color: black;
   max-width: 640px;
