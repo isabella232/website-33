@@ -5,20 +5,18 @@ image: assets/banner.png
 ---
 
 i make/break/document things. my life ambitions include but are not limited to:
-
+  
 +	inspire people a bunch  
-+   not be a jerk  
 +   stay hydrated at all times  
 +   act to my ethics as much as [practicable]  
-+   type mostly in lowercase but still be professional  
 
 |---
-| twitter  | [_xs](https://twitter.com/_xs){: style="color: black"} |
-| sms      | (+44) 7708217259                              |
-| email    | orange@ff4500.red                             |
+| __twitter__  |  [_xs](https://twitter.com/_xs){: style="color: black"} |
+| __sms__      |  (+44) 7708217259                              |
+| __email__    |  orange@ff4500.red                             |
 |===
 
-about:
+# about:
 
 +   [Newcastle][Newcastle] [born][born] in the [90s]  
 +   [studied] at [Newcastle College] doing [Graphic Design]   
@@ -30,7 +28,9 @@ about:
 +   [Free Software Foundation] member  
 +   [tinkerer] / [technology enthusiast]  
 +   enjoys [colour]  
-
+  
+---  
+  
 [practicable]: http://en.wiktionary.org/wiki/practicable
 [Newcastle]: http://en.wikipedia.org/wiki/Newcastle_Upon_Tyne
 [born]: http://en.wikipedia.org/wiki/Birth

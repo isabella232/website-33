@@ -4,12 +4,17 @@ html {
 
 body {
   background: orangered; 
-  background-image: url("/assets/banner.png") ;
-  background-repeat: repeat-x;
-  font-family: monospace;
+  font-family: 'Grotesk', 'Helvetica', 'Arial', serif;
   color: black;
   max-width: 640px;
   margin: 2em auto;
+  padding: 0 1em 0 1em;
+}
+
+hr {
+  height: 10px;
+  border: none;
+  background: black;
 }
 
 a {
@@ -21,10 +26,29 @@ a:hover {
   color: darkgrey;
 }
 
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
 ul{
   list-style-type: square;
 }
 
 img {
-    max-width: 640px;
+  max-width: 640px;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table, td, th {
+  text-align: left;
+  border: 1px solid black;
+  border-right: 0px;
+  padding: 5px;
+}
+
