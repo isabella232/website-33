@@ -4,6 +4,7 @@ permalink: /sonosocialdataism/
 title: Sonification Of Processes & Notifications 
 date: 2014/11/29
 colour: tomato
+link-color: white
 type: digital sketch
 ---
 

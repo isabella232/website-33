@@ -4,6 +4,7 @@ permalink: /future-soon/
 title: Future Soon 
 date: 2016/01/01
 colour: darkturquoise
+link-color: white
 type: various
 ---
 

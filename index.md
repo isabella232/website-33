@@ -4,7 +4,7 @@ layout: index
 image: assets/banner.png
 ---
 
-i make/break/document things. my life ambitions include but are not limited to:
+## i make/break/document things. my life ambitions include but are not limited to:
   
 +	inspire people a bunch  
 +   stay hydrated at all times  

@@ -3,6 +3,7 @@ layout: post
 title: 🔪🍎🍊🍋🍌🍐🍍🍴 
 permalink: /fruit/
 colour: yellow
+link-color: black
 type: performance
 ---
 

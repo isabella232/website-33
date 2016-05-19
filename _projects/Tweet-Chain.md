@@ -4,6 +4,7 @@ permalink: /Tweet-Chain/
 title: Tweet Chain
 date: 2013/02/14
 colour: lightblue
+link-color: black
 type: twitter poetry
 ---
 
