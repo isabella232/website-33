@@ -2,9 +2,10 @@
 title: ff4500
 layout: index
 image: assets/banner.png
+colour: orangered
 ---
 
-## i make/break/document things. my life ambitions include but are not limited to:
+## i make things, play with things and most importantly appreciate the colours of the leaves. my goals include but are not limited to:
   
 +	inspire people a bunch  
 +   stay hydrated at all times  
@@ -28,8 +29,6 @@ image: assets/banner.png
 +   [Free Software Foundation] member  
 +   [tinkerer] / [technology enthusiast]  
 +   enjoys [colour]  
-  
----  
   
 [practicable]: http://en.wiktionary.org/wiki/practicable
 [Newcastle]: http://en.wikipedia.org/wiki/Newcastle_Upon_Tyne
