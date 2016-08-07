@@ -33,7 +33,7 @@ I knew after a while of theorising and playing round with the different visuals 
 
 I drew the above test face to help out when I needed multiple faces on camera at once (due to my unfortunate position of being awake at 4am coding and only having a single face myself).
 
-![a screenshot of a the system finding the face drawn above in a webcam image]({{ site.baseurl }}/assets/anykey/test1.jpg)
+![a screenshot of a the system finding the face drawn above in a webcam image]({{ site.baseurl }}/assets/anykey/test1.png)
 
 I started working on various individual parts of the overall piece.
 I ordered a selection of Cherry MX Switches to choose the best suited feeling and sound for the single key and looked into OSU keyboards (OSU being a rhythm game) which have 2 keys, most were made DIY with either a Teensy or a Trinket, I ordered a Trinket and found the Adafruit Trinket Keyboard Sketch, Modified it to my needs and then when the switches got here, soldered up the most appropriate (I tested: red, black, blue, green, brown, clear) which turned out to be a clicky tactlie green switch.
