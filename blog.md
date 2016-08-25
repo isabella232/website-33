@@ -1,7 +1,7 @@
 ---
 layout: index
-permalink: /b/
-colour: orange
+permalink: /blog/
+colour: lime
 title: blog
 ---
 
