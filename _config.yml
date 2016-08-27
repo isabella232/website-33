@@ -19,5 +19,3 @@ defaults:
         values:
             layout: post
             type: "digital work"
-
-# rsync -ave ssh _site/ --delete ixt_orangered@ssh.nearlyfreespeech.net:
