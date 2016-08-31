@@ -12,9 +12,10 @@ colour: orangered
 +   act to my ethics as much as [practicable]  
 
 |---
-| __twitter__  |  [_xs](https://twitter.com/_xs){: style="color: black"} |
-| __sms__      |  (+44) 7708217259                              |
-| __email__    |  orange@ff4500.red                             |
+| __twitter__  |  [_xs]                                               |
+| __sms__      |  (+44) 7708217259                                    |
+| __email__    |  orange@ff4500.red                                   |
+| __keybase__  |  [ff4500]                                            |
 | __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] | 
 |===
 
@@ -31,7 +32,9 @@ colour: orangered
 +   [tinkerer] / [technology enthusiast]  
 +   enjoys [colour]  
 
+[_xs]: https://twitter.com/_xs
 [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: {{ site.baseurl }}/assets/orangeATff4500red.asc 
+[ff4500]: https://keybase.io/ff4500
 [practicable]: http://en.wiktionary.org/wiki/practicable
 [Newcastle]: http://en.wikipedia.org/wiki/Newcastle_Upon_Tyne
 [born]: http://en.wikipedia.org/wiki/Birth
