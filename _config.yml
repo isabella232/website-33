@@ -1,6 +1,7 @@
 markdown: kramdown
 name: ff4500
 description: digital artist orange
+encoding: utf-8 
 
 baseurl: ""
 url: "http://www.ff4500.red"
