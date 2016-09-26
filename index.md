@@ -14,6 +14,7 @@ colour: orangered
 |---
 | __twitter__  |  [_xs]                                               |
 | __sms__      |  (+44) 7708217259                                    |
+| __telegram__ |  (+44) 7708217259 or ff4500                          |
 | __email__    |  orange@ff4500.red                                   |
 | __keybase__  |  [ff4500]                                            |
 | __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] | 
