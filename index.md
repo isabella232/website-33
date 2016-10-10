@@ -34,7 +34,7 @@ colour: orangered
 +   enjoys [colour]  
 
 [_xs]: https://twitter.com/_xs
-[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: {{ site.baseurl }}/assets/orangeATff4500red.asc 
+[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc 
 [ff4500]: https://keybase.io/ff4500
 [practicable]: http://en.wiktionary.org/wiki/practicable
 [Newcastle]: http://en.wikipedia.org/wiki/Newcastle_Upon_Tyne
