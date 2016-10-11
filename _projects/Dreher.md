@@ -2,16 +2,22 @@
 layout: post
 permalink: /DreherTweet/
 title: Dreher Tweet
-date: 2016/04/15 
+date: 2016/04/15
 colour: DimGrey
 link-color: white
 published: true
 ---
 
-A digital tribute to Peter Dreher's Glass paintings.  
+A digital tribute to Peter Dreher's Glass paintings.
 
-posted 0:33, 4:33, 8:33, 12:33, 16:33 & 20:33 UTC on [twitter @_xs](http://twitter.com/_xs)  
+posted 0:33, 4:33, 8:33, 12:33, 16:33 & 20:33 UTC on [twitter @\_xs](http://twitter.com/\_xs)
 
-the photos are of a mug placed in the center of the frame and are tweeted in near realtime, effectively making a 6fpd (frames per day) live stream. 
+the photos are of a mug placed in the center of the frame and are tweeted in near realtime, effectively making a 6fpd (frames per day) live stream.
 
-The idea behind this project is both to pay homage to the Glass paintings and to add to the data pool of my twitter account making something quite boring a specticle to watch as well as some noise to the data I produce otherwise. The photos are mostly all similar.  
+in this world of streams and updates i wanted to create a work that showed something so ordinary and boring can be made a specticle, in homage to peter drehers ["day by day good day"]. i play on the themes of this work but replayed for a digital space and audience, that the perception and of the world can be different and that we do not objectively see what is going on. the choice of the time stamp is chosen as a start time of 4:33 in reference to john cages [4'33"] where the themes are similar. the 4 hour window was an obvious division to me and my real contribution to this work as the glue that helps it function.
+
+the code is available in the Twitter directory of [this git]
+
+["day by day good day"]: https://en.wikipedia.org/wiki/Peter_Dreher#Tag_um_Tag_guter_Tag_.2F_Day_by_Day_good_Day
+[4'33"]: https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3
+[this git]: https://github.com/ixt/Scripts/
