@@ -6,35 +6,34 @@ colour: orangered
 ---
 
 ## i make things, play with things and most importantly appreciate the colours of the leaves. my goals include but are not limited to:
-  
-+	inspire people a bunch  
-+   stay hydrated at all times  
-+   act to my ethics as much as [practicable]  
+
++	inspire people a bunch
++   stay hydrated at all times
++   act to my ethics as much as [practicable]
 
 |---
 | __twitter__  |  [_xs]                                               |
-| __sms__      |  (+44) 7708217259                                    |
-| __telegram__ |  (+44) 7708217259 or ff4500                          |
+| __telegram__ |  ff4500                                              |
 | __email__    |  orange@ff4500.red                                   |
 | __keybase__  |  [ff4500]                                            |
-| __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] | 
+| __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] |
 |===
 
 # about:
 
-+   [Newcastle][Newcastle] [born][born] in the [90s]  
-+   [studied] at [Newcastle College] doing [Graphic Design]   
-+   [mentored] at The Factory at [Tyneside Cinema]  
-+   [studied] at [Goldsmiths, University of London] doing [BSc][BSc] [Digital Arts][Digital Arts] [Computing][Computing]  
-+   attends [hacks]  
-+   uses [GNU] + [Linux] 
-+   [vegan]  
-+   [Free Software Foundation] member  
-+   [tinkerer] / [technology enthusiast]  
-+   enjoys [colour]  
++   [Newcastle][Newcastle] [born][born] in the [90s]
++   [studied] at [Newcastle College] doing [Graphic Design]
++   [mentored] at The Factory at [Tyneside Cinema]
++   [studied] at [Goldsmiths, University of London] doing [BSc][BSc] [Digital Arts][Digital Arts] [Computing][Computing]
++   attends [hacks]
++   uses [GNU] + [Linux]
++   [vegan]
++   [Free Software Foundation] member
++   [tinkerer] / [technology enthusiast]
++   enjoys [colour]
 
 [_xs]: https://twitter.com/_xs
-[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc 
+[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc
 [ff4500]: https://keybase.io/ff4500
 [practicable]: http://en.wiktionary.org/wiki/practicable
 [Newcastle]: http://en.wikipedia.org/wiki/Newcastle_Upon_Tyne
