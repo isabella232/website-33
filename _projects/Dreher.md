@@ -14,9 +14,9 @@ posted 0:33, 4:33, 8:33, 12:33, 16:33 & 20:33 UTC on [my twitter]
 
 ![dreherPicture]
 
-the photos are of a mug placed in the center of the frame and are tweeted in near realtime, effectively making a 6fpd (frames per day) live stream.
+the photos are of a mug placed in the centre of the frame and are tweeted in near real time, effectively making a 6fpd (frames per day) live stream.
 
-in this world of streams and updates i wanted to create a work that showed something so ordinary and boring can be made a specticle, in homage to peter drehers ["day by day good day"]. i play on the themes of this work but replayed for a digital space and audience, that the perception and of the world can be different and that we do not objectively see what is going on. the choice of the time stamp is chosen as a start time of 4:33 in reference to john cages [4'33"] where the themes are similar. the 4 hour window was an obvious division to me and my real contribution to this work as the glue that helps it function.
+in this world of streams and updates i wanted to create a work that showed something so ordinary and boring can be made a spectacle, in homage to peter drehers ["day by day good day"]. i play on the themes of this work but replayed for a digital space and audience, that the perception and of the world can be different and that we do not objectively see what is going on. the choice of the time stamp is chosen as a start time of 4:33 in reference to john cages [4'33"] where the themes are similar. the 4 hour window was an obvious division to me and my real contribution to this work as the glue that helps it function.
 
 the code is available in the Twitter directory of [this git]
 

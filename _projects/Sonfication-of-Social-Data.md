@@ -8,7 +8,7 @@ link-color: white
 type: digital sketch
 ---
 
-Big Social Data was a project organised by King's College in order to see how people thought about Big Data and Social networking. The project I was involved in was based on tracking and recording data teenagers made with devices and fidning out what they could do with that data, this included 2 Hackathons.   
+Big Social Data was a project organised by King's College in order to see how people thought about Big Data and Social networking. The project I was involved in was based on tracking and recording data teenagers made with devices and finding out what they could do with that data, this included 2 Hackathons.   
 
 ![Screenshot of the sketch](/assets/sonosocialdata.jpg)  
 

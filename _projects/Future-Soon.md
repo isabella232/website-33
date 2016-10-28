@@ -8,7 +8,7 @@ link-color: white
 type: various
 ---
 
-Future Soon is a long term project based on recording and documenting my life with data. Some projects are included or are related in this one and as such it is hard to define when this begins and ends. Part of the original aims of the project was to create a backup of my memories inorder to reupload later on in life. 
+Future Soon is a long term project based on recording and documenting my life with data. Some projects are included or are related in this one and as such it is hard to define when this begins and ends. Part of the original aims of the project was to create a backup of my memories in order to reupload later on in life. 
 
 Tweet in Public was a Hack done at King's College as part of Big social data (see [Sonosocialdataism](/sonosocialdata/) for another hack and a bit more description) 
 
