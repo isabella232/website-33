@@ -6,6 +6,7 @@ date: 2016/01/01
 colour: darkturquoise
 link-color: white
 type: various
+continuous: true
 ---
 
 Future Soon is a long term project based on recording and documenting my life with data. Some projects are included or are related in this one and as such it is hard to define when this begins and ends. Part of the original aims of the project was to create a backup of my memories in order to reupload later on in life. 

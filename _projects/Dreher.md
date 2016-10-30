@@ -6,6 +6,7 @@ date: 2016/04/15
 colour: DimGrey
 link-color: white
 published: true
+continuous: true
 ---
 
 A digital tribute to Peter Dreher's Glass paintings.
