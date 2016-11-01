@@ -24,5 +24,5 @@ the code is available in the Twitter directory of [this git]
 ["day by day good day"]: https://en.wikipedia.org/wiki/Peter_Dreher#Tag_um_Tag_guter_Tag_.2F_Day_by_Day_good_Day
 [4'33"]: https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3
 [this git]: https://github.com/ixt/Scripts/
-[dreherPicture]: {{ site.url }}/assets/dreher/dreher-2016-10-27-12-33-01.jpg
+[dreherPicture]: {{ site.url }}/assets/dreher/dreher.jpg
 [my twitter]: https://twitter.com/_xs
