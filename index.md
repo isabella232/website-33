@@ -21,19 +21,10 @@ colour: orangered
 +   [studied] at [Newcastle College] doing [Graphic Design]
 +   [mentored] at The Factory at [Tyneside Cinema]
 +   [studied] at [Goldsmiths, University of London] doing [BSc][BSc] [Digital Arts][Digital Arts] [Computing][Computing]
-+   attends [hacks]
 +   uses [GNU] + [Linux]
 +   [vegan]
 +   [Free Software Foundation] member
-+   [tinkerer] / [technology enthusiast]
 +   enjoys [colour]
-
-# my goals include but are not limited to:
-
-+	inspire people a bunch
-+   learn from my mistakes
-+   act to my ethics as much as [practicable]
-
 
 [_xs]: https://twitter.com/_xs
 [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc
@@ -51,11 +42,8 @@ colour: orangered
 [Bsc]: http://en.wikipedia.org/wiki/Bachelor_of_Science
 [Digital Arts]: http://en.wikipedia.org/wiki/Digital_art
 [Computing]: http://en.wikipedia.org/wiki/Computing
-[hacks]: http://en.wikipedia.org/wiki/Hackathon
 [GNU]: http://en.wikipedia.org/wiki/GNU
 [Linux]: http://en.wikipedia.org/wiki/Linux
 [vegan]: http://en.wikipedia.org/wiki/Veganism
 [Free Software Foundation]: http://en.wikipedia.org/wiki/Free_Software_Foundation
-[tinkerer]: http://en.wikipedia.org/wiki/Maker_culture
-[technology enthusiast]: http://en.wikipedia.org/wiki/Hacker_Culture
 [colour]: http://en.wikipedia.org/wiki/Color
