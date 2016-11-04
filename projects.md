@@ -5,7 +5,6 @@ permalink: /projects/
 colour: orangered
 ---
 
-## This page is a work in progress , new content may appear on old project pages as well as many being incomplete, if you want to know about any of my projects feel free to email me  
 
 <table>
     {% assign stuff = site.projects | sort: 'date' | reverse %}
@@ -25,6 +24,7 @@ colour: orangered
 </table>
 
 * If the project is labeled C it is a continuous project whereas S is static
+* The content on these pages change, email me if you want more info or to talk about my work 
 
 <!-- 
 |---

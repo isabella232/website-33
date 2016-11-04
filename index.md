@@ -5,11 +5,7 @@ image: assets/banner.png
 colour: orangered
 ---
 
-## i make things, play with things and most importantly appreciate the colours of the leaves. my goals include but are not limited to:
-
-+	inspire people a bunch
-+   stay hydrated at all times
-+   act to my ethics as much as [practicable]
+## I am awake. I am alive. I am orange.
 
 |---
 | __twitter__  |  [_xs]                                               |
@@ -31,6 +27,13 @@ colour: orangered
 +   [Free Software Foundation] member
 +   [tinkerer] / [technology enthusiast]
 +   enjoys [colour]
+
+# my goals include but are not limited to:
+
++	inspire people a bunch
++   learn from my mistakes
++   act to my ethics as much as [practicable]
+
 
 [_xs]: https://twitter.com/_xs
 [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc

@@ -9,6 +9,6 @@ type: pen drawings
 published: false
 ---
 
-[Tumblr link](http://ixt.tumblr.com/tagged/animal-kingdom)  
+[Tumblr link](http://ixt.tumblr.com/tagged/animal-kingdom)
 
-A selection of drawings on paper of various animals and people who effected me in my life in some way (to varying degrees)  
+A selection of drawings on paper of various animals and people who effected me in my life in some way (to varying degrees)

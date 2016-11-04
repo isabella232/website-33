@@ -2,7 +2,7 @@
 layout: post
 permalink: /noOrdinaryTrifle/
 title: No Ordinary Trifle
-date: 2011/08/25 
+date: 2011/08/25
 colour: darkgrey
 link-color: white
 type: music
