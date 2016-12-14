@@ -10,6 +10,8 @@ type: installation
 
 # noFacesForNames
 
+![noFacesForNames]({{ site.url }}/assets/noFacesForNames/noFacesJune.jpg)
+
 An immersive installation built to experiment with how others can perceive the data processed memories I have been storing as part of [future soon](/future-soon/).
 
 The piece took form as a 1.2m diameter sphere which was hung from above, the sphere had an entrance from the bottom which people were encouraged to enter one at a time. Inside of the sphere was a currently printing roll of paper that had black & white prints of textual characters and pictures on them. The pictures were parts of the processed photos from my daily life, the pictures were faces picked up by OpenCV when the photos are processed. The process is too good at finding faces and finds them in almost everything, this makes for some great photos and some pretty bad ones.

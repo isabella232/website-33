@@ -11,12 +11,21 @@ collections:
     projects:
         output: true
         permalink: /projects/:path
+    essays:
+        output: true
+        permalink: /essays/:path
 
 defaults:
     - 
         scope: 
             path: ""
             type: projects
+        values:
+            layout: post
+            type: "digital work"
+        scope: 
+            path: ""
+            type: essays
         values:
             layout: post
             type: "digital work"
