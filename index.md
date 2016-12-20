@@ -11,15 +11,16 @@ colour: orangered
 | __twitter__  |  [_xs]                                               |
 | __email__    |  orange@ff4500.red                                   |
 | __keybase__  |  [ff4500]                                            |
+| __xmpp__     |  ixt@member.fsf.org                                  |
 | __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] |
 |===
 
 # about:
 
-+   uses [GNU] + [Linux]
 +   [vegan]
-+   [Free Software Foundation] member
 +   enjoys [colour]
++   uses [GNU] + [Linux]
++   [Free Software Foundation] member
 
 [_xs]: https://twitter.com/_xs
 [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc

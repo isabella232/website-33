@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /DreherTweet/
+permalink: /projects/DreherTweet/
 title: Dreher Tweet
 date: 2016/04/15
 colour: DimGrey

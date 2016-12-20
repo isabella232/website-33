@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /projects/blankpage/
+permalink: /blankpage/
 title:
 date: 1969/01/01
 colour: orangered

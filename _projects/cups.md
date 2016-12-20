@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /cups/
+permalink: /projects/cups/
 title: ode to plastic and by extention cups
 colour: black
 link-color: white

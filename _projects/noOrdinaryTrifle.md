@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /noOrdinaryTrifle/
+permalink: /projects/noOrdinaryTrifle/
 title: No Ordinary Trifle
 date: 2011/08/25
 colour: darkgrey

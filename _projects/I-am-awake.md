@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /alive/
+permalink: /projects/alive/
 title: I am awake, I am alive, I am orange
 date: 2016/10/30
 colour: darkorange

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /noFacesForNames/
+permalink: /projects/noFacesForNames/
 title: noFaceForNames
 date: 2016/04/28
 colour: orange

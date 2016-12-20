@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /NewHive/
+permalink: /projects/NewHive/
 title: NewHive Sites 
 date: 2014/05/20
 colour: khaki

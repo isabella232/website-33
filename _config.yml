@@ -1,33 +1,19 @@
 markdown: kramdown
 name: ff4500
 description: digital artist orange
-encoding: utf-8 
+encoding: utf-8
 
 baseurl: ""
 url: "https://ff4500.red"
-twitter_username: _xs
 
 collections:
-    projects:
-        output: true
-        permalink: /projects/:path
     essays:
         output: true
-        permalink: /essays/:path
 
-defaults:
-    - 
-        scope: 
-            path: ""
-            type: projects
-        values:
-            layout: post
-            type: "digital work"
-        scope: 
-            path: ""
-            type: essays
-        values:
-            layout: post
-            type: "digital work"
+    projects:
+        output: true
 
 exclude: ["sync.sh"]
+
+layouts_dir: _jekyll/_layouts
+includes_dir: _jekyll/_includes

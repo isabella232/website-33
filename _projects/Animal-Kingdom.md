@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Animal-Kingdom/
+permalink: /projects/Animal-Kingdom/
 title: Animal Kingdom
 date: 2014/02/14
 colour: black

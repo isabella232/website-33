@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /inLabourOf/
+permalink: /projects/inLabourOf/
 title: in labour of
 date: 2013/04/26 
 colour: white

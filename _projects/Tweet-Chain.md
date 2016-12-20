@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Tweet-Chain/
+permalink: /projects/Tweet-Chain/
 title: Tweet Chain
 date: 2013/02/14
 colour: lightblue

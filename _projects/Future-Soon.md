@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /future-soon/
+permalink: /projects/future-soon/
 title: Future Soon 
 date: 2016/01/01
 colour: darkturquoise

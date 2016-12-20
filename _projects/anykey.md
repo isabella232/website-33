@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /anykey/
+permalink: /projects/anykey/
 title: Press Any Key To Continue
 date: 2015/04/30
 colour: green

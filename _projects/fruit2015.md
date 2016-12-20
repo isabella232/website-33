@@ -2,7 +2,7 @@
 layout: post
 title: 🔪🍎🍊🍋🍌🍐🍍🍴 
 date: 2015/06/05 
-permalink: /fruit/
+permalink: /projects/fruit/
 colour: yellow
 link-color: black
 type: performance
