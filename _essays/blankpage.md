@@ -8,3 +8,18 @@ link-color: white
 published: false
 ---
 
+# {{ page.title }} 
+{{ page.date }}
+
+---
+{: .thick-rules}
+
+
+## Contents:
+
+|---
+| [Ingredients](#ingredients)			|
+|===
+{: .contents-section}
+
+

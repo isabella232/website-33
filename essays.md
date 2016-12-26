@@ -17,7 +17,3 @@ colour: orangered
 
 </table>
 
-        {% for collection in site.collections %}
-            {{ collection.directory }}
-        {% endfor %}
-* The content on these pages change, email me if you want more info or to talk about my work

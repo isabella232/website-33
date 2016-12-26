@@ -15,5 +15,5 @@ collections:
 
 exclude: ["sync.sh"]
 
-layouts_dir: _jekyll/_layouts
-includes_dir: _jekyll/_includes
+layouts_dir: _jekyll/layouts
+includes_dir: _jekyll/includes

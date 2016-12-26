@@ -6,13 +6,18 @@
     body {
         background: {{ page.colour }};
     }
+    a { 
+        color: {{ page.link-color }};
+    }
 </style>
 </head>
 
 <body>
     {% include navigation.html %}
-    <hr>
+    <hr class="thick-rules">
+    <article>
       {{content}}
-    <hr>
+    </article>
+    <hr class="thick-rules">
 </body>
 </html>
