@@ -19,19 +19,22 @@ colour: orangered
 # about:
 
 +   [vegan]
-+   [queer] (they/them)
++   [queer] ([they/them])
 +   enjoys [colour]
++   learning [esperanto]
 +   uses [GNU] + [Linux]
 +   [Free Software Foundation] member
 
 [_xs]: https://twitter.com/_xs
-[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: https://keybase.io/ff4500/key.asc
+[105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9]: {{ site.baseurl }}/pgp.asc
 [ff4500]: https://keybase.io/ff4500
 [ixt]: https://github.com/ixt
-[practicable]: http://en.wiktionary.org/wiki/practicable
-[GNU]: http://en.wikipedia.org/wiki/GNU
-[Linux]: http://en.wikipedia.org/wiki/Linux
-[vegan]: http://en.wikipedia.org/wiki/Veganism
+[practicable]: https://en.wiktionary.org/wiki/practicable
+[they/them]: https://en.wikipedia.org/wiki/Singular_they
+[GNU]: https://en.wikipedia.org/wiki/GNU
+[esperanto]: https://en.wikipedia.org/wiki/Esperanto
+[Linux]: https://en.wikipedia.org/wiki/Linux
+[vegan]: https://en.wikipedia.org/wiki/Veganism
 [queer]: https://en.wikipedia.org/wiki/Genderqueer
-[Free Software Foundation]: http://en.wikipedia.org/wiki/Free_Software_Foundation
-[colour]: http://en.wikipedia.org/wiki/Color
+[Free Software Foundation]: https://en.wikipedia.org/wiki/Free_Software_Foundation
+[colour]: https://en.wikipedia.org/wiki/Color
