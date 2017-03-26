@@ -10,7 +10,7 @@ type: digital sketch
 
 Big Social Data was a project organised by King's College in order to see how people thought about Big Data and Social networking. The project I was involved in was based on tracking and recording data teenagers made with devices and finding out what they could do with that data, this included 2 Hackathons.
 
-![Screenshot of the sketch](/assets/sonosocialdata.jpg)
+![Screenshot of the sketch]({{ site.baseurl }}/assets/sonosocialdata.jpg)
 
 At the second hack I produced a sketch that would convert the data of my usage into sound to hear, the more permission that were used the high the pitch, the more usage of those permissions the louder it was.
 

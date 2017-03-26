@@ -41,26 +41,18 @@ To verify this is me you can find my public key either at [keybase] or by
 searching a keyserver / pool for my fingerprint either printed on my business
 card, [twitter], or simply "105C A1F4 AF75 DFE3 04AD  C68B 7181 6DF5 3240
 20E9".  or if you have curl just grab it with 
-{% highlight bash %}
-curl https://keybase.io/ff4500/pgp_keys.asc | gpg --import
-{% endhighlight %}
-{% highlight bash %}
-git clone https://github.com/ixt/I-am-awake-I-am-alive-I-am-orange   
-{% endhighlight %}
+> curl https://keybase.io/ff4500/pgp_keys.asc | gpg --import
+> git clone https://github.com/ixt/I-am-awake-I-am-alive-I-am-orange   
 
 the above command will download the git repo with the history of my signing  
 
-{% highlight bash %}
-git verify-commit master  
-{% endhighlight %}
+> git verify-commit master  
 the above command prints out the raw proof of signiture   
 
 The print out will look something like what is below:  
-{% highlight bash %}
 > gpg: Signature made Sun 25 Dec 2016 20:34:32 GMT
 > gpg:                using RSA key 012E450A25405E4004C81B2C6B35D47864E747E3
 > gpg: Good signature from "NfN Orange <orange@ff4500.red>"
-{% endhighlight %}
 
 As long as it reads good signature that is signed with the key you downloaded
 before. 

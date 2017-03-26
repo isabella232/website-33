@@ -19,6 +19,7 @@ colour: orangered
 # about:
 
 +   [vegan]
++   [queer] (they/them)
 +   enjoys [colour]
 +   uses [GNU] + [Linux]
 +   [Free Software Foundation] member
@@ -31,5 +32,6 @@ colour: orangered
 [GNU]: http://en.wikipedia.org/wiki/GNU
 [Linux]: http://en.wikipedia.org/wiki/Linux
 [vegan]: http://en.wikipedia.org/wiki/Veganism
+[queer]: https://en.wikipedia.org/wiki/Genderqueer
 [Free Software Foundation]: http://en.wikipedia.org/wiki/Free_Software_Foundation
 [colour]: http://en.wikipedia.org/wiki/Color

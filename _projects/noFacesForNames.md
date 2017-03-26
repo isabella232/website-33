@@ -10,7 +10,7 @@ type: installation
 
 # noFacesForNames
 
-![noFacesForNames]({{ site.url }}/assets/noFacesForNames/noFacesJune.jpg)
+![noFacesForNames]({{ site.baseurl }}/assets/noFacesForNames/noFacesJune.jpg)
 
 An immersive installation built to experiment with how others can perceive the data processed memories I have been storing as part of [future soon](/future-soon/).
 

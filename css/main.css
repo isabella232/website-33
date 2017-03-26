@@ -15,6 +15,8 @@ hr {
   height: 1px;
   border: none;
   background: black;
+  width: 100%;
+  float: left;
 }
 
 .thick-rules {
@@ -25,6 +27,18 @@ hr {
   background-color: #EF3500;
   width: 29em;
   border-right: 1px;
+}
+
+.navigation {
+  margin: 0;
+  float: left;
+  padding: 0 1em 0 0;
+}
+
+.head {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0;
 }
 
 a {
@@ -39,17 +53,19 @@ a:hover {
 h1 {
   font-weight: bold;
   font-size: 2.618em;
-  margin: 0.618em 0;
+  margin: 0;
 }
 
 h2 {
   font-weight: bold;
   font-size: 1.618em;
+  margin: 0;
 }
 
 h3 {
   font-weight: bold;
   font-size: 1em;
+  margin: 0;
 }
 
 p {
@@ -69,8 +85,7 @@ ul{
 }
 
 img {
-  max-width: 46.971em;
-  width: calc(100vw - 2.618em);
+  width: 100%;
 }
 
 table {

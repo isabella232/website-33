@@ -129,7 +129,7 @@ Once this is set up and working in one place it should keep working when you mov
 
 # Further Reading:
 
-[WPA Supplicant @ Arch Linux Wiki](https://wiki.archlinux.org/index.php/Wpa_supplicant)
+[WPA Supplicant @ Arch Linux Wiki](https://wiki.archlinux.org/index.php/Wpa_supplicant)  
 [WPA_SUPPLICAT + WPA_CLI User Guide](http://www.programgo.com/article/9886626445/)
 
 

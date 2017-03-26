@@ -24,6 +24,6 @@ A stream of just cup tweets is available by searching or [linked here]
 ["day by day good day"]: https://en.wikipedia.org/wiki/Peter_Dreher#Tag_um_Tag_guter_Tag_.2F_Day_by_Day_good_Day
 [4'33"]: https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3
 [this git]: https://github.com/ixt/Scripts/
-[dreherPicture]: {{ site.url }}/assets/dreher/dreher.jpg
+[dreherPicture]: {{ site.baseurl }}/assets/dreher/dreher.jpg
 [my twitter]: https://twitter.com/_xs
 [linked here]: https://twitter.com/search?f=tweets&vertical=default&q=from%3A_xs%20%23drehertweet
