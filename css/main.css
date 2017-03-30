@@ -72,11 +72,16 @@ p {
   margin: 0.618em 0.618em;
 }
 
-blockquote {
+.language-bash.highlighter-rouge {
+  background-color: black;
+  padding: 0.618em;
+  margin: 1.618em;
+}
+
+code {
   background-color: black;
   color: white;
   font-family: monospace;
-  padding: 1em;
 }
 
 ul{
