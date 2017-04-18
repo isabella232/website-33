@@ -18,9 +18,9 @@ published: true
 
 |---
 | [Ingredients](#ingredients)			|
-| [TL;DR](#tldr)				|
+| [TL;DR](#tldr)				        |
 | [Using wpa_cli](#using-wpa_cli)		|
-| [Further Reading](#further-reading)		|
+| [Further Reading](#further-reading)	|
 |===
 {: .contents-section}
 
