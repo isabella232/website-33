@@ -5,7 +5,7 @@ title: How to setup a Pi Zero in Serial Gadget Mode in a secure system
 date: 2017/04/18
 colour: orangered
 link-color: white
-published: false
+published: true
 ---
 
 # {{ page.title }} 
@@ -30,9 +30,9 @@ published: false
 ## Ingredients:
 
 1 x Pi Zero (or A+ or Zero W)  
-1 x Micro SD card of sufficant size 
-1 x Micro USB Cable
-1 x Computer that can read and edit files, mount ext4 and you can install or use a serial terminal with (i.e putty or screen)
+1 x Micro SD card of sufficant size  
+1 x Micro USB Cable   
+1 x Computer that can read and edit files, mount ext4 and you can install or use a serial terminal with (i.e putty or screen)   
 
 ---
 
@@ -43,8 +43,6 @@ Mount a flashed MicroSD's boot partition
 echo "dtoverlay=dwc2" >> config.txt
 sed -i -e "s/rootwait/rootwait modules-load=dwc2,g_cdc" /media/amnesia/boot/cmdline.txt
 ~~~
-Plug the Pi Zero in, wait around 30 seconds for it to boot
-Unplug Pi Zero & mount the MicroSD's other partition
 cd to the root of the other partition.
 ~~~ bash
 ln -s lib/systemd/system/getty@.service etc/systemd/system/getty.target.wants/getty@ttyGS0.service
@@ -116,16 +114,9 @@ Make sure everything is saved correctly.
 
 Click the little eject button next to boot in "Files".
 
-8. Remove Micro SD, Plug it into the Pi and power up the pi by plugging it in
+8. Mount the other partition that appears next to boot in "Files"
 
-9. Wait for a bit
-You can either do what I do most of the time (which is just wait for the LED to stop blinking for like 10s straight, or you can watch dmesg
-
-10. Unplug the Pi and then the micro SD, Reinsert into your computer
-
-11. Mount the other partition that appears next to boot in "Files"
-
-12. Enable the System D service
+9. Enable the System D service
 Now this is where the magic happens. Open a terminal if you havent already,
 change directory to the micro SD cards partition (usually mounted at /media/amnesia/ followed by a long string of numbers and letters, you can usually just autocomplete this by hitting tab a couple of times, if you have multiple drives mounted then you can start typing whatever the long string of characters is and then hit tab to autocomplete it). When you use ls it should show you various folders like bin, boot, dev, home, lib, media, etc, etc. 
 
@@ -137,11 +128,11 @@ You may need to run this as sudo. (read: most likely you will put "sudo " before
 ln -s lib/systemd/system/getty@.service etc/systemd/system/getty.target.wants/getty@ttyGS0.service
 ~~~
 
-12. Unmount and Replug everything in to the Pi, this time making sure to connect to the computer with a Micro SD
+10. Unmount and Plug everything in to the Pi, this time making sure to connect to the computer with a Micro SD
 
-13. Look for the /dev/ttyACM0 port appearing when you run "ls /dev/tty\*"
+11. Look for the /dev/ttyACM0 port appearing when you run "ls /dev/tty\*"
 
-14. Install a serial terminal compatible program 
+12. Install a serial terminal compatible program 
 
 In tails I recommend screen
 ~~~ bash
@@ -149,14 +140,14 @@ sudo apt update
 sudo apt install screen -y
 ~~~
 
-15. Open the serial device with screen (or whatever program you are using)
+13. Open the serial device with screen (or whatever program you are using)
 
 You may need to run this as root.
 ~~~ bash 
 screen /dev/ttyACM0
 ~~~
 
-16. And thats it!
+14. And thats it!
 
 ### Bonus!:
 
@@ -164,7 +155,8 @@ If you've accidentally started tails without an admin password you can't set it 
 
 ---
 
-## Furthur Reading:
+## Further Reading:
 
+TODO
 
-{{ page.date }} Updated: 2017/04/18
+{{ page.date }} Updated: 2017/04/27
