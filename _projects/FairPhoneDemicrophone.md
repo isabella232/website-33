@@ -10,3 +10,4 @@ published: false
 
 I own a fairphone 2, I removed the microphones
 
+

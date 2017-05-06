@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /projects/StreaminHotMess/
+permalink: /projects/StreamingHotMess/
 title: Streaming Hot Mess 
 date: 1969/01/01
 colour: orangered
@@ -8,7 +8,7 @@ link-color: white
 published: false
 ---
 
-Streaming hot mess is a selection of experiments with downloading the most recent videos uploaded to youtube that are returned from various search results 
+Streaming Hot Mess is a selection of experiments with downloading the most recent videos uploaded to youtube that are returned from various search results 
 
 [Github Link](https://github.com/ixt/Streaming-Hot-Mess)
 
