@@ -5,6 +5,7 @@ title: Streaming Hot Mess
 date: 1969/01/01
 colour: orangered
 link-color: white
+type: script
 published: false
 ---
 

@@ -5,6 +5,8 @@ title: THE INTERNET IS REAL LIFE
 date: 2017/04/01
 colour: orangered
 link-color: white
+type: installation
+continuous: true
 published: false
 ---
 

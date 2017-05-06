@@ -5,6 +5,7 @@ title: Money Business Card
 date: 2017/05/03
 colour: orangered
 link-color: white
+type: business card
 published: false
 ---
 
