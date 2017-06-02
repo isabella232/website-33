@@ -8,9 +8,6 @@ link-color: white
 type: modification
 ---
 
-I own a fairphone 2, I removed the microphones
-
-
 # {{ page.title }}
 
 <style> 
@@ -34,3 +31,6 @@ I own a fairphone 2, I removed the microphones
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/ksKA4OwujoI" frameborder="0" width="560" height="315" allowfullscreen></iframe>
 </div>
+
+
+I own a fairphone 2, I removed the microphones

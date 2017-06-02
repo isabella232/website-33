@@ -78,16 +78,16 @@ wget http://downloads.raspberrypi.org/raspbian_lite_latest -O raspbian.zip
 wget http://downloads.raspberrypi.org/raspbian_latest -O raspbian.zip
 ~~~
 
-2. Unzip the file to get a image, you can also just doubleclick on the zip file if you prefer that  
+2\. Unzip the file to get a image, you can also just doubleclick on the zip file if you prefer that  
 
 ~~~ bash
 unzip rasbian.zip
 ~~~
 
-3. Insert the Micro SD card
+3\. Insert the Micro SD card
 I like to run a "ls /dev/sd\*" before plugging my card in so that I know what devices are currently plugged in, after plugging in the card I run it again and note the additional device. (i.e if /dev/sdb was only there after plugging in the card then I use that) 
 
-4. Flash Raspbian
+4\. Flash Raspbian
 I prefer using dd, but if you prefer GUI applications you can use the "Disks" application in Tails. Just click on your SD card in the left hand column, then click the 3 line button (burger button) in the top right hand corner of the window, select "Restore Disk Image" and then go find the ".img" file, likely in "Tor Browser" if you downloaded raspbian from the website.
 
 using dd would be, being careful to flash the correct device:
@@ -95,10 +95,10 @@ using dd would be, being careful to flash the correct device:
 dd if=*raspbian*.img of=/dev/sdb bs=4096 status=progress
 ~~~
 
-5. Mount boot
+5\. Mount boot
 Open up "Files" and click on "boot" on the left hand column.
 
-6. Make inital config changes
+6\. Make inital config changes
 Add "dtoverlay=dwc2" to the bottom of config.txt on its own line
 Add "modules-load=dwc2,g_cdc" after "rootwait" in cmdline.txt, making sure there are spaces either side.
 
@@ -110,13 +110,13 @@ sed -i -e "s/rootwait/rootwait modules-load=dwc2,g_cdc" /media/amnesia/boot/cmdl
 
 Make sure everything is saved correctly.
 
-7. Unmount the boot partition
+7\. Unmount the boot partition
 
 Click the little eject button next to boot in "Files".
 
-8. Mount the other partition that appears next to boot in "Files"
+8\. Mount the other partition that appears next to boot in "Files"
 
-9. Enable the System D service
+9\. Enable the System D service
 Now this is where the magic happens. Open a terminal if you havent already,
 change directory to the micro SD cards partition (usually mounted at /media/amnesia/ followed by a long string of numbers and letters, you can usually just autocomplete this by hitting tab a couple of times, if you have multiple drives mounted then you can start typing whatever the long string of characters is and then hit tab to autocomplete it). When you use ls it should show you various folders like bin, boot, dev, home, lib, media, etc, etc. 
 
@@ -128,11 +128,11 @@ You may need to run this as sudo. (read: most likely you will put "sudo " before
 ln -s lib/systemd/system/getty@.service etc/systemd/system/getty.target.wants/getty@ttyGS0.service
 ~~~
 
-10. Unmount and Plug everything in to the Pi, this time making sure to connect to the computer with a Micro SD
+10\. Unmount and Plug everything in to the Pi, this time making sure to connect to the computer with a Micro SD
 
-11. Look for the /dev/ttyACM0 port appearing when you run "ls /dev/tty\*"
+11\. Look for the /dev/ttyACM0 port appearing when you run "ls /dev/tty\*"
 
-12. Install a serial terminal compatible program 
+12\. Install a serial terminal compatible program 
 
 In tails I recommend screen
 ~~~ bash
@@ -140,14 +140,14 @@ sudo apt update
 sudo apt install screen -y
 ~~~
 
-13. Open the serial device with screen (or whatever program you are using)
+13\. Open the serial device with screen (or whatever program you are using)
 
 You may need to run this as root.
 ~~~ bash 
 screen /dev/ttyACM0
 ~~~
 
-14. And thats it!
+14\. And thats it!
 
 ### Bonus!:
 
