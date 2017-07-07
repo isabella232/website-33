@@ -23,12 +23,3 @@ colour: orangered
         {% endfor %}
 </table>
 
-
-* If the project is labeled C it is a continuous project whereas S is static
-* The content on these pages change, email me if you want more info or to talk about my work 
-
-<!-- 
-|---
-|2013|[60//5\203](http://hacks.youngrewiredstate.org/events/YRS2013/60-5-203)| program |
-|===
--->

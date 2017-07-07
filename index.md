@@ -1,7 +1,6 @@
 ---
 title: ff4500
 layout: index
-image: assets/banner.png
 colour: orangered
 ---
 
@@ -10,7 +9,7 @@ colour: orangered
 |---
 | __twitter__  |  [_xs]                                               |
 | __email__    |  orange@ff4500.red                                   |
-| __github__   |  [ixt]						      |
+| __github__   |  [ixt]		                    				      |
 | __keybase__  |  [ff4500]                                            |
 | __signal__   |  contact me another way to get this number           |
 | __pgp__      |  [105C A1F4 AF75 DFE3 04AD C68B 7181 6DF5 3240 20E9] |

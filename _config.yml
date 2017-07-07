@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://ff4500.red"
 
 collections:
-    essays:
+    notes:
         output: true
 
     talks:
