@@ -20,7 +20,6 @@ colour: orangered
 +   [vegan]
 +   [queer] ([they/them])
 +   enjoys [colour]
-+   learning [esperanto]
 +   uses [GNU] + [Linux]
 +   [Free Software Foundation] member
 
@@ -31,7 +30,6 @@ colour: orangered
 [practicable]: https://en.wiktionary.org/wiki/practicable
 [they/them]: https://en.wikipedia.org/wiki/Singular_they
 [GNU]: https://en.wikipedia.org/wiki/GNU
-[esperanto]: https://en.wikipedia.org/wiki/Esperanto
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [vegan]: https://en.wikipedia.org/wiki/Veganism
 [queer]: https://en.wikipedia.org/wiki/Genderqueer
