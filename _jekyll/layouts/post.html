@@ -3,7 +3,19 @@
 <head>
 {% include header.html %}
 <style>
-    body { background: {{ page.colour }};}
+{% if page.word-color %}
+    body { 
+        background: {{ page.colour }}; 
+        color: {{ page.word-color }};
+    }
+    hr {
+        background: {{ page.word-color }};
+    }
+{% else %}
+    body { 
+        background: {{ page.colour }}; 
+    }
+{% endif %}
     a { color: {{ page.link-color }};}
 </style>
 </head>
