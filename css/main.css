@@ -3,11 +3,10 @@ html {
 }
 
 body {
-  background: orangered; 
+  background: #111; 
   font-family: 'Grotesk', 'Helvetica', 'Arial', sansserif;
-  color: black;
+  color: white;
   max-width: 46.971em;
-  margin: 1.618em auto;
   padding: 0 1em 0 1em;
 }
 
@@ -21,12 +20,6 @@ hr {
 
 .thick-rules {
   height: 0.618em;
-}
-
-.contents-section {
-  background-color: #EF3500;
-  width: 29em;
-  border-right: 1px;
 }
 
 .navigation {
@@ -43,7 +36,7 @@ hr {
 
 a {
   text-decoration: none;
-  color: white;
+  color: orangered;
 }
 
 a:hover {

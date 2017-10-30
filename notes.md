@@ -2,7 +2,6 @@
 layout: index
 title: essays
 permalink: /notes/
-colour: orangered
 ---
 
 <table>
