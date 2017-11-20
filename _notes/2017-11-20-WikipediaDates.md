@@ -8,7 +8,7 @@ link-color: "#AAAAAA"
 ---
 # {{ page.title }} 
 
-<iframe width="1px" min-width="100%" width="100%"  height="440px" frameborder="0" scrolling="no" src="http://plot.ly/~ixt/37.embed"></iframe>
+<iframe width="1px" min-width="100%" width="100%"  height="440px" frameborder="0" scrolling="no" src="{{ basename.url }}/other/Wikipedia-Date-Frequency.html"></iframe>
  
 TL;DR: 6th of July 2005, 1st of April 2010, 11th of September 2001
 
