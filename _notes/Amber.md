@@ -3,8 +3,9 @@ layout: post
 permalink: /amber/
 title: The Amber Manifesto
 date: 2017/05/30
-colour: orangered
-link-color: white
+colour: "#080808"
+word-color: "#AAAAAA"
+link-color: "white"
 published: false
 ---
 

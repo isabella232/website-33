@@ -2,8 +2,9 @@
 layout: post
 title: 
 date: 1969/01/01
-colour: orangered
-link-color: white
+colour: "#080808"
+word-color: "#AAAAAA"
+link-color: "white"
 published: false
 ---
 # {{ page.title }} 

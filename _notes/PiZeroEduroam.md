@@ -3,8 +3,9 @@ layout: post
 permalink: /Pi-Eduroam/
 title: How to set up Eduroam on a Pi 
 date: 2017/03/11
-colour: orangered
-link-color: white
+colour: "#080808"
+word-color: "#AAAAAA"
+link-color: "white"
 published: true
 ---
 

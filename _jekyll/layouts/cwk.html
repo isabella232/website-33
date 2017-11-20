@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{{ page.title }}</title>
+<meta name="author" content="Orange">
+<style>
+    html {
+      min-height: 100%;
+    }
+    
+    body {
+      font-family: 'Grotesk', 'Helvetica', 'Arial', sansserif;
+      max-width: 46.971em;
+      padding: 1em;
+      margin: 1em auto;
+      color: white;
+      background: #080808;
+      border-style: ridge;
+      border-color: orangered;
+      border-width: 1.618em;
+    }
+    
+    hr {
+      height: 1px;
+      border: none;
+      background: orangered;
+      width: 100%;
+      float: left;
+    }
+    
+    a {
+      text-decoration: none;
+      color: orangered;
+    }
+    
+    a:hover {
+      color: darkgrey;
+    }
+    
+    h1 {
+      font-weight: bold;
+      font-size: 2.618em;
+      margin: 0;
+    }
+    
+    h2 {
+      font-weight: bold;
+      font-size: 1.618em;
+      margin: 0;
+    }
+    
+    h3 {
+      font-weight: bold;
+      font-size: 1em;
+      margin: 0;
+    }
+    
+    p {
+      margin: 0.618em 0.618em;
+    }
+    
+    ul{
+      margin: 0 0 1em 0;
+      list-style-type: square;
+    }
+
+{% if page.word-color %}
+    body { 
+        background: {{ page.colour }}; 
+        color: {{ page.word-color }};
+    }
+    hr {
+        background: {{ page.word-color }};
+    }
+{% else %}
+    body { 
+        background: {{ page.colour }}; 
+    }
+{% endif %}
+    a { 
+        color: {{ page.link-color }};
+    }
+</style>
+</head>
+
+<body>
+    <article>
+      {{content}}
+    </article>
+</body>
+</html>

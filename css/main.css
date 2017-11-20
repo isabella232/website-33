@@ -3,17 +3,21 @@ html {
 }
 
 body {
-  background: #111; 
   font-family: 'Grotesk', 'Helvetica', 'Arial', sansserif;
-  color: white;
   max-width: 46.971em;
-  padding: 0 1em 0 1em;
+  padding: 1em;
+  margin: 1em auto;
+  color: white;
+  background: #080808;
+  border-style: ridge;
+  border-color: orangered;
+  border-width: 1.618em;
 }
 
 hr {
   height: 1px;
   border: none;
-  background: black;
+  background: orangered;
   width: 100%;
   float: left;
 }

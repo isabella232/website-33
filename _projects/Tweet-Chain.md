@@ -7,6 +7,7 @@ colour: lightblue
 link-color: black
 type: twitter poetry
 continuous: true
+published: false
 ---
 
 A long chain of tweets wrote backwards through time. A "Never starting" Poem.

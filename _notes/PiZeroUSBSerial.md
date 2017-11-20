@@ -3,8 +3,9 @@ layout: post
 permalink: /Pi-USB-Serial/
 title: How to setup a Pi Zero in Serial Gadget Mode in a secure system
 date: 2017/04/18
-colour: orangered
-link-color: white
+colour: "#080808"
+word-color: "#AAAAAA"
+link-color: "white"
 published: true
 ---
 

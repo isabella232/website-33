@@ -3,11 +3,12 @@ layout: post
 permalink: /speakfreely/
 title: Speak Freely
 date: 2017/10/19
-colour: black
 type: twitter-ricochet bot
-word-color: orange
-link-color: orangered
+colour: #080808
+word-color: #AAAAAA
+link-color: white
 continuous: true
+published: false
 ---
 
 # Speak Freely

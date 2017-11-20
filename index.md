@@ -3,8 +3,6 @@ title: ff4500
 layout: index
 ---
 
-## I am awake. I am alive. I am orange.
-
 |---
 | __twitter__  |  [_xs]                                               |
 | __email__    |  orange@ff4500.red                                   |
@@ -22,11 +20,6 @@ layout: index
         {% for project in stuff %}
         <tr>
             <td> <strong> {{ project.date | date: "%Y-%m-%d" }} </strong></td>
-            {% if project.continuous %}
-            <td> C </td>
-            {% else %}
-            <td> S </td>
-            {% endif %}
             <td> <a href="{{ site.baseurl }}{{ project.url }}"> {{ project.title }}</a></td>
             <td style="border-left: 0px; border-right: 0px; background-color: {{ project.colour }};"> </td>
             <td style="border-left: 0px;"> <strong> {{ project.type }} </strong> </td>
