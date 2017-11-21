@@ -16,9 +16,12 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 ## this page is under construction
 
 |---
-| __DATE__     |  Bot Name       | Source Tweet     |
-| __20171120__ |  [Friedrich.sh] | [_jordan_bates]  |
+| __DATE__     |  Bot Name                      | Source Tweet             |
+| __20171120__ |  [Friedrich.sh]                | [_jordan_bates]          |
+| __20171121__ |  [MonthTheDayBeWithPaul.sh]    | [Warpgate9]              |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
 [_jordan_bates]: https://twitter.com/_jordan_bates/status/902499082567954433
+[MonthTheDayBeWithPaul.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/21/MonthTheDayBeWithPaul.sh
+[Warpgate9]: https://twitter.com/Warpgate9/status/931130737868275712
