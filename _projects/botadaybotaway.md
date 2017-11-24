@@ -19,6 +19,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171121__ |  [MonthTheDayBeWithPaul.sh]    | [Warpgate9]              |
 | __20171122__ |  [FuckYouPayThem.sh]           | [hradzka]                |
 | __20171123__ |  [DiaryOfATrump.sh]            | [LilKevooo]              |
+| __20171124__ |  [KingdomOfWaiting.sh]         | [Chadunda]               |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -29,3 +30,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [hradzka]: https://twitter.com/hradzka/status/930660751064403970
 [DiaryOfATrump.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/23/DiaryOfATrump.sh
 [LilKevooo]: https://twitter.com/LilKevooo/status/930097359324897281
+[KingdomOfWaiting.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/24/KingdomOfWaiting.sh
+[Chadunda]: https://twitter.com/Chadunda/status/933569779021041664
