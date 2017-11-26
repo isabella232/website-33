@@ -12,6 +12,7 @@ body {
   border-style: ridge;
   border-color: orangered;
   border-width: 1.618em;
+  overflow-wrap: break-word;
 }
 
 hr {
@@ -88,6 +89,9 @@ ul{
 
 img {
   width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
 }
 
 table {

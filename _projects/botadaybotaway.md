@@ -20,6 +20,8 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171122__ |  [FuckYouPayThem.sh]           | [hradzka]                |
 | __20171123__ |  [DiaryOfATrump.sh]            | [LilKevooo]              |
 | __20171124__ |  [KingdomOfWaiting.sh]         | [Chadunda]               |
+| __20171125__ |  [BecauseBeesDontCare.sh]      | [_Kwasimoto]             |
+| __20171126__ |  [BlockSomeonePlease.sh]       | [minicacher]             |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -32,3 +34,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [LilKevooo]: https://twitter.com/LilKevooo/status/930097359324897281
 [KingdomOfWaiting.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/24/KingdomOfWaiting.sh
 [Chadunda]: https://twitter.com/Chadunda/status/933569779021041664
+[BecauseBeesDontCare.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/25/BecauseBeesDontCare.sh
+[_Kwasimoto]: https://twitter.com/_Kwasimoto/status/928126952782917632
+[BlockSomeonePlease.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/26/BlockSomeonePlease.sh
+[minicacher]: https://twitter.com/minicacher/status/1879457115
