@@ -20,8 +20,9 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171122__ |  [FuckYouPayThem.sh]           | [hradzka]                |
 | __20171123__ |  [DiaryOfATrump.sh]            | [LilKevooo]              |
 | __20171124__ |  [KingdomOfWaiting.sh]         | [Chadunda]               |
-| __20171125__ |  [BecauseBeesDontCare.sh]      | [_Kwasimoto]             |
+| __20171125__ |  [BecauseBeesDontCare.sh]      | [\_Kwasimoto]            |
 | __20171126__ |  [BlockSomeonePlease.sh]       | [minicacher]             |
+| __20171127__ |  [AroundTheWorldWithComey.sh]  | [Erik_R_Krieg]           |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -38,3 +39,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [_Kwasimoto]: https://twitter.com/_Kwasimoto/status/928126952782917632
 [BlockSomeonePlease.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/26/BlockSomeonePlease.sh
 [minicacher]: https://twitter.com/minicacher/status/1879457115
+[AroundTheWorldWithComey.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/27/AroundTheWorldWithComey.sh
+[Erik_R_Krieg]: https://twitter.com/Erik_R_Krieg/status/850467938767437824
