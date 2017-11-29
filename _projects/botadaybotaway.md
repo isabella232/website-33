@@ -24,6 +24,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171126__ |  [BlockSomeonePlease.sh]       | [minicacher]             |
 | __20171127__ |  [AroundTheWorldWithComey.sh]  | [Erik_R_Krieg]           |
 | __20171128__ |  [TaylorSilence.sh]            | [awwang1]                |
+| __20171129__ |  [WritingPrompt.sh]            | [thought_punk]           |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -44,3 +45,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [Erik_R_Krieg]: https://twitter.com/Erik_R_Krieg/status/850467938767437824
 [TaylorSilence.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/28/TaylorSilence.sh
 [awwang1]: https://twitter.com/awwang1/status/932696394414116865
+[WritingPrompt.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/29/WritingPrompt.sh
+[thought_punk]: https://twitter.com/thought_punk/status/486419466881097728
