@@ -25,6 +25,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171127__ |  [AroundTheWorldWithComey.sh]  | [Erik_R_Krieg]           |
 | __20171128__ |  [TaylorSilence.sh]            | [awwang1]                |
 | __20171129__ |  [WritingPrompt.sh]            | [thought_punk]           |
+| __20171130__ |  [Relentless.com.sh]           | [rsiegel]                |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -47,3 +48,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [awwang1]: https://twitter.com/awwang1/status/932696394414116865
 [WritingPrompt.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/29/WritingPrompt.sh
 [thought_punk]: https://twitter.com/thought_punk/status/486419466881097728
+[Relentless.com.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/30/Relentless.com.sh
+[rsiegel]: https://twitter.com/rsiegel/status/875749724933980164
