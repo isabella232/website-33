@@ -27,6 +27,8 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171129__ |  [WritingPrompt.sh]            | [thought_punk]           |
 | __20171130__ |  [Relentless.com.sh]           | [rsiegel]                |
 | __20171201__ |  [EatAndDrinkPlease.sh]        | [worstonlineman]         |
+| __20171202__ |  [MarkovUnicodeTweets.sh]      | [smartkittymomo]         |
+| __20171203__ |  [ShitTwitter.sh]              | [emilio_estimand]        |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -53,3 +55,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [rsiegel]: https://twitter.com/rsiegel/status/875749724933980164
 [EatAndDrinkPlease.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/01/EatAndDrinkPlease.sh
 [worstonlineman]: https://twitter.com/worstonlineman/status/236244364236574720
+[MarkovUnicodeTweets.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/02/MarkovUnicodeTweets.sh
+[smartkittymomo]: https://twitter.com/smartkittymomo/status/779727026391515138
+[ShitTwitter.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/03/ShitTwitter.sh
+[emilio_estimand]: https://twitter.com/emilio_estimand/status/487120446135873536 
