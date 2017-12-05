@@ -29,6 +29,8 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171201__ |  [EatAndDrinkPlease.sh]        | [worstonlineman]         |
 | __20171202__ |  [MarkovUnicodeTweets.sh]      | [smartkittymomo]         |
 | __20171203__ |  [ShitTwitter.sh]              | [emilio_estimand]        |
+| __20171204__ |  [realDrilledTrump.sh]         | [MadScientist212]        |
+| __20171205__ |  [HappyBirthday.sh]            | [ADDandy]                |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -59,3 +61,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [smartkittymomo]: https://twitter.com/smartkittymomo/status/779727026391515138
 [ShitTwitter.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/03/ShitTwitter.sh
 [emilio_estimand]: https://twitter.com/emilio_estimand/status/487120446135873536 
+[realDrilledTrump.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/04/realDrilledTrump.sh
+[MadScientist212]: https://twitter.com/MadScientist212/status/630879791881662464
+[HappyBirthday.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/05/HappyBirthday.sh
+[ADDandy]: https://twitter.com/ADDandy/status/575364659315744768
