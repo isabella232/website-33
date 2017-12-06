@@ -31,6 +31,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171203__ |  [ShitTwitter.sh]              | [emilio_estimand]        |
 | __20171204__ |  [realDrilledTrump.sh]         | [MadScientist212]        |
 | __20171205__ |  [HappyBirthday.sh]            | [ADDandy]                |
+| __20171206__ |  [PerfectTheWayYouAre.sh]      | [femdigitale]            |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -65,3 +66,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [MadScientist212]: https://twitter.com/MadScientist212/status/630879791881662464
 [HappyBirthday.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/05/HappyBirthday.sh
 [ADDandy]: https://twitter.com/ADDandy/status/575364659315744768
+[PerfectTheWayYouAre.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/06/PerfectTheWayYouAre.sh
+[femdigitale]: https://twitter.com/femdigitale/status/933313881493196808
