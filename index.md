@@ -4,7 +4,7 @@ layout: index
 ---
 
 |---
-| __twitter__  |  [_xs]                                               |
+| __twitter__  |  [\_xs]                                              |
 | __email__    |  orange@ff4500.red                                   |
 | __github__   |  [ixt]		                    				      |
 | __keybase__  |  [ff4500]                                            |
