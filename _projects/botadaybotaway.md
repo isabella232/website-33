@@ -35,6 +35,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171207__ |  [FloridaMan.sh]               | [Lord_32bit]             |
 | __20171208__ |  [NoList.sh]                   | [DLStauffer]             |
 | __20171209__ |  [duh.sh]                      | [django]                 |
+| __20171210__ |  [fakeDonaldLoser.sh]          | [midraretakes]           |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -77,3 +78,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [DLStauffer]: https://twitter.com/DLStauffer/status/937511654777954304
 [duh.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/09/duh.sh
 [django]: https://twitter.com/django/status/895353163510947840
+[fakeDonaldLoser.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/10/fakeDonaldLoser.sh
+[midraretakes]: https://twitter.com/midraretakes/status/935509320036384770
