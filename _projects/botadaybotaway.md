@@ -36,6 +36,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171208__ |  [NoList.sh]                   | [DLStauffer]             |
 | __20171209__ |  [duh.sh]                      | [django]                 |
 | __20171210__ |  [fakeDonaldLoser.sh]          | [midraretakes]           |
+| __20171211__ |  [strawberryFieldsForever.sh]  | [\_soloform]             |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -80,3 +81,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [django]: https://twitter.com/django/status/895353163510947840
 [fakeDonaldLoser.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/10/fakeDonaldLoser.sh
 [midraretakes]: https://twitter.com/midraretakes/status/935509320036384770
+[strawberryFieldsForever.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/11/strawberryFieldsForever.sh
+[_soloform]: https://twitter.com/_soloform/status/421787068390330368
