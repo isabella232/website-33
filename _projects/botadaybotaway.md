@@ -38,6 +38,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171210__ |  [fakeDonaldLoser.sh]          | [midraretakes]           |
 | __20171211__ |  [strawberryFieldsForever.sh]  | [\_soloform]             |
 | __20171212__ |  [AllOne.sh]                   | [yungcorgi]              |
+| __20171213__ |  [SoundChain.sh]               | [MysteriousDrD]          |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -86,3 +87,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [_soloform]: https://twitter.com/_soloform/status/421787068390330368
 [AllOne.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/12/AllOne.sh
 [yungcorgi]: https://twitter.com/yungcorgi/status/744745109976195073
+[SoundChain.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/13/SoundChain.sh
+[MysteriousDrD]: https://twitter.com/MysteriousDrD/status/940968557923495936
