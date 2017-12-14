@@ -39,6 +39,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171211__ |  [strawberryFieldsForever.sh]  | [\_soloform]             |
 | __20171212__ |  [AllOne.sh]                   | [yungcorgi]              |
 | __20171213__ |  [SoundChain.sh]               | [MysteriousDrD]          |
+| __20171214__ |  [Forgetful.sh]                | [BuucketHe4d]            |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -89,3 +90,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [yungcorgi]: https://twitter.com/yungcorgi/status/744745109976195073
 [SoundChain.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/13/SoundChain.sh
 [MysteriousDrD]: https://twitter.com/MysteriousDrD/status/940968557923495936
+[Forgetful.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/14/Forgetful.sh
+[BuucketHe4d]: https://twitter.com/BuucketHe4d/status/510836702211239936
