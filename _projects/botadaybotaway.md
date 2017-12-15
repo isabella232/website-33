@@ -40,6 +40,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171212__ |  [AllOne.sh]                   | [yungcorgi]              |
 | __20171213__ |  [SoundChain.sh]               | [MysteriousDrD]          |
 | __20171214__ |  [Forgetful.sh]                | [BuucketHe4d]            |
+| __20171215__ |  [QuitHating.sh]               | [PseudoPlaton]           |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -92,3 +93,5 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [MysteriousDrD]: https://twitter.com/MysteriousDrD/status/940968557923495936
 [Forgetful.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/14/Forgetful.sh
 [BuucketHe4d]: https://twitter.com/BuucketHe4d/status/510836702211239936
+[QuitHating.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/15/QuitHating.sh
+[PseudoPlaton]: https://twitter.com/PseudoPlaton/status/936624094182805505
