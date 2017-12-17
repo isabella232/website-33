@@ -1,0 +1,14 @@
+---
+layout: post
+title: strawberryFieldsForever.sh
+date: 2017/12/11
+source: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/11/strawberryFieldsForever.sh
+twitter-source: https://twitter.com/_soloform/status/421787068390330368
+twitter-user: @_soloform
+lesser-bot: true
+colour: "#080808"
+word-color: "#AAAAAA"
+link-color: "white"
+published: false
+---
+# {{ page.title }} 
