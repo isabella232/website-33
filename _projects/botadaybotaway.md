@@ -41,6 +41,8 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 | __20171213__ |  [SoundChain.sh]               | [MysteriousDrD]          |
 | __20171214__ |  [Forgetful.sh]                | [BuucketHe4d]            |
 | __20171215__ |  [QuitHating.sh]               | [PseudoPlaton]           |
+| __20171216__ |  [Martyr.sh]                   | [yaelwrites]             |
+| __20171217__ |  [Fuck.sh]                     | [Fuzzycow2010]           |
 |===
 
 [Friedrich.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/11/20/Friedrich.sh
@@ -95,3 +97,7 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 [BuucketHe4d]: https://twitter.com/BuucketHe4d/status/510836702211239936
 [QuitHating.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/15/QuitHating.sh
 [PseudoPlaton]: https://twitter.com/PseudoPlaton/status/936624094182805505
+[Martyr.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/16/Martyr.sh
+[yaelwrites]: https://twitter.com/yaelwrites/status/941950908509900801
+[Fuck.sh]: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/17/Fuck.sh
+[Fuzzycow2010]: https://twitter.com/Fuzzycow2010/status/938407107724038145
