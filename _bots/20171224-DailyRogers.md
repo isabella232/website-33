@@ -14,4 +14,4 @@ link-color: "white"
 ---
 # {{ page.title }} 
 
-
+Post a episode of The Neighbourhood, along with the episode guide every day.

@@ -14,6 +14,7 @@ link-color: "white"
 ---
 # {{ page.title }} 
 
-A bot that cleans all tweets from Julian Assange then reposts them appended with ", Henry"
+A bot that cleans all tweets from Julian Assange then reposts them appended
+with ", Henry"
 
 

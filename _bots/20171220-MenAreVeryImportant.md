@@ -15,7 +15,9 @@ published: true
 ---
 # {{ page.title }} 
 
-Tweets on most internationally recognised observance days with "Why Isn't There A MEN'S [Insert Day Here]"
+Tweets on most internationally recognised observance days with "Why Isn't There
+A MEN'S [Insert Day Here]"
 
-This is the first bot that is purely crontab, also first bot that doesn't contain any bash scripts. 
+This is the first bot that is purely crontab, also first bot that doesn't
+contain any bash scripts. 
 
