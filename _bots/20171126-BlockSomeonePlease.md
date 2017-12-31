@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Randomly block a twitter user, chosen by random number generator output being set to an ID

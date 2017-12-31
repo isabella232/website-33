@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+The whole bee movie script, one line at a time, two lines per day, for over 3 years total running time. 

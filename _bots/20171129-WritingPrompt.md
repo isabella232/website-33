@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Remind thought_punk that they wanted to write and publish one day, every month.

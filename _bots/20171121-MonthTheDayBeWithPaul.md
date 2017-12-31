@@ -14,3 +14,8 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Every day for years Paul Kilduff-Taylor would tweet out the date in the form
+"Month the day be with you" much like Yoda from star wars. A suggestion was
+made to instead of automate posting them, instead automate retweeting them.
+This was done.

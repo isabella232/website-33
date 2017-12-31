@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Take TIFU titles from reddit and reformat them into "Florida man" headlines.

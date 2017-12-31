@@ -14,3 +14,7 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Repost news institutions tweets about Amazon, with Amazon replaced with
+Relentless.com, an early name for the Amazon.com project that Jeff Bezos
+wanted to use. 

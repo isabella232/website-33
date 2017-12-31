@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Every day post an image that reminds people to quit hating.

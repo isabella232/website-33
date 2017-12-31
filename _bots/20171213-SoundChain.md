@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+Take a given artist, look through their likes and pick a track, take the artist and pick one of their likes. Post every like in the chain.

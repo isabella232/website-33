@@ -14,3 +14,5 @@ link-color: "white"
 published: true
 ---
 # {{ page.title }} 
+
+A markov bot trained on both realDonaldTrump tweets and dril tweets. Not good. 
