@@ -21,11 +21,15 @@ I will likely keep using [this search](https://twitter.com/search?src=typd&q=Som
 <td> Source Tweet </td>  
 </tr>
     {% for bot in bots %}
+    {% if bot.project == "BoaDaBoA" %}
+    {% if bot.published %}
 <tr> 
 <td> <strong> {{ bot.date | date: "%Y%m%d" }} </strong> </td>
 <td> <a href="{{ bot.source }}"> {{ bot.title }}</a></td>
 <td> <a href="{{ bot.twitter-source }}"> {{ bot.twitter-user }}</a></td>
 </tr>
+    {% endif %}
+    {% endif %}
     {% endfor %}
 </table>
 

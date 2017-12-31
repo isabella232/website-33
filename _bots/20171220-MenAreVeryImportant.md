@@ -3,7 +3,7 @@ layout: post
 title: MenAreVeryImportant.crontab
 date: 2017/12/20
 source: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/20/MenAreVeryImportant.crontab
-project: botadaybotaway
+project: BoaDaBoA
 active: true
 twitter-source: https://twitter.com/NotFaulty/status/310542475968253952
 twitter-user: NotFaulty
@@ -13,7 +13,7 @@ word-color: "#AAAAAA"
 link-color: "white"
 published: true
 ---
-# {{ page.title }} 
+ 
 
 Tweets on most internationally recognised observance days with "Why Isn't There
 A MEN'S [Insert Day Here]"

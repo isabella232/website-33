@@ -14,7 +14,7 @@ collections:
         output: true
 
     bots:
-        output: true
+        output: false
 
     projects:
         output: true

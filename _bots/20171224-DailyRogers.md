@@ -3,7 +3,7 @@ layout: post
 title: DailyRogers.sh
 date: 2017/12/24
 source: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/24/DailyRogers.sh
-project: botadaybotaway
+project: BoaDaBoA
 active: true
 twitter-source: https://twitter.com/_xs/status/945000073926234112
 twitter-user: _xs
@@ -12,6 +12,6 @@ colour: "#080808"
 word-color: "#AAAAAA"
 link-color: "white"
 ---
-# {{ page.title }} 
+ 
 
 Post a episode of The Neighbourhood, along with the episode guide every day.

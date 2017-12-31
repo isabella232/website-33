@@ -3,7 +3,7 @@ layout: post
 title: fakeDonaldLoser.sh
 date: 2017/12/10
 source: https://github.com/ixt/BotADayBotAway/blob/master/2017/12/10/fakeDonaldLoser.sh
-project: botadaybotaway
+project: BoaDaBoA
 active: true
 twitter-source: https://twitter.com/midraretakes/status/935509320036384770
 twitter-user: midraretakes
@@ -13,6 +13,6 @@ word-color: "#AAAAAA"
 link-color: "white"
 published: true
 ---
-# {{ page.title }} 
+ 
 
 Repost realDonaldTrump tweets but with words replaced with their antonyms 
