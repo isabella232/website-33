@@ -1,0 +1,7 @@
+---
+layout: none
+permalink: /feed.json
+---
+{% assign stuff = site.documents | sort: 'date' | reverse %}
+[{% for post in stuff limit:10 %}
+{ "title":"{{ post.title | strip_html }}","description":"{{ post.content | strip_html | strip_newlines }}", "pubDate":"{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}", "link":"{{ site.baseurl }}{{ post.url }}" },{% endfor %}{}]
