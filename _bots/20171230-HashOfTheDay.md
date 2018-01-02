@@ -11,9 +11,8 @@ lesser-bot: true
 colour: "#080808"
 word-color: "#AAAAAA"
 link-color: "white"
+published: true
 ---
- 
-
 Takes the current day in YYYYMMDD format and puts the string through an array
 of hashing algorithms tweeting the output along with "Today's < ALGO > hash of
 the day is: < OUTPUT >"

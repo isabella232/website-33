@@ -11,6 +11,7 @@ lesser-bot: true
 colour: "#080808"
 word-color: "#AAAAAA"
 link-color: "white"
+published: true
 ---
  
 

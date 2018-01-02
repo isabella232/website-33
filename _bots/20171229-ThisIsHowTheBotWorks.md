@@ -11,7 +11,6 @@ lesser-bot: false
 colour: "#080808"
 word-color: "#AAAAAA"
 link-color: "white"
+published: true
 ---
- 
-
 A very good explination of how this bot works can be found as replies to the source tweet

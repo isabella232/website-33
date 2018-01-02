@@ -11,8 +11,7 @@ lesser-bot: true
 colour: "#080808"
 word-color: "#AAAAAA"
 link-color: "white"
+published: true
 ---
- 
-
 Every post is of a "My First Vlog" YouTube video that was uploaded within the
 last 30 minutes of the tweet being posted. 
